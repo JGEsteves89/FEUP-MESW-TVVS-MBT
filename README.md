@@ -62,7 +62,7 @@ This exercise was made in java and the testing is using GraphWalker
 - Select the Add Libraries>> select JUnit
 - Click finish.
 - Copy  [Src folder](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/tree/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/src) and [pom.xml](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/pom.xml) to your project
-- Now, look at me
+- Now, look at the keyboard
 - Look back to your computer
-- Now, back to me
+- Now, back to the keyboard
 - Just kidding
