@@ -5,7 +5,7 @@ This exercise was made in java and the testing is using GraphWalker
 
 ##To do this exercise you will need:
 1. Eclipse [How to install it](#how-to-install-eclipse-ide)
-2. GraphWalker [How to install it](#how-to-install-Graphwalker)
+2. GraphWalker [How to install it](#how-to-install-graphwalker)
 3. Maven [How to install it](#how-to-install-maven)
 4. Getting Set up [How to setup](#getting-set-up)
 
@@ -58,7 +58,7 @@ This exercise was made in java and the testing is using GraphWalker
 ### Getting Set up
 - In Eclipse select File>>New>>Java Project
 - Name it 'Civil Status' and click Next
-- Select the tab Libraries>> Add External JARs>> select GraphWalker Jar downloaded [before](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L18).
+- Select the tab Libraries>> Add External JARs>> select GraphWalker Jar downloaded [before](#how-to-install-graphwalker).
 - Select the Add Libraries>> select JUnit
 - Click finish.
 - Copy  [Src folder](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/tree/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/src) and [pom.xml](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/pom.xml) to your project
