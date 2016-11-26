@@ -7,7 +7,7 @@ This exercise was made in java and the testing is using GraphWalker
 1. Eclipse [How to install it](#How-to-install-Eclipse-IDE)
 2. GraphWalker [How to install it](#How-to-install-GraphWalker)
 3. Maven [How to install it](#How-to-install-GraphWalker)
-4. Getting Set up [How to setup](#How-to-install-Maven)
+4. Getting Set up [How to setup](#how-to-install-maven)
 
 
 ### How to install Eclipse IDE
