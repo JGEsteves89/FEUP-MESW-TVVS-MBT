@@ -7,7 +7,7 @@ This exercise was made in java and the testing is using GraphWalker
 1. Eclipse [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L13-L18)
 2. GraphWalker [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L18-L22)
 3. Maven [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L22-L58)
-4. Getting Set up [How to setup](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L58-L69)
+4. Getting Set up [How to setup](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L58-L68)
 
 
 ### How to install Eclipse IDE
