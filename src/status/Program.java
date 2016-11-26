@@ -26,49 +26,6 @@ public class Program {
 		
 		System.out.println("Program Civil Status started:\n");
 		
-		System.out.println("");
-		System.out.println("There are this persons:");
-		fred.printPerson();
-		jane.printPerson();
-		george.printPerson();
-		bob.printPerson();
-		
-		System.out.println("");
-		System.out.println("Fred and Jane are getting married:");
-		try {
-			Person.getMarried(fred, jane);
-		} catch (CivilException e2) {
-			// TODO Auto-generated catch block
-			e2.printStackTrace();
-		}
-		fred.printPerson();
-		jane.printPerson();
-		
-		
-		System.out.println("");
-		System.out.println("Fred and Jane are not happy, their are getting divorced:");
-		try {
-			Person.getDivorced(fred, jane);
-		} catch (CivilException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
-		fred.printPerson();
-		jane.printPerson();
-		
-		System.out.println("");
-		System.out.println("Althought Jane is divorced, Fred has died:");
-	    try {
-			Person.getSpouseDeceased(jane);
-	    } catch (CivilException e) {
-	    	System.out.println(e.getMessage());
-	    	Assert.assertEquals(e.getMessage(),"A divorced person cannot get widowed");
-	    }
-		jane.printPerson();
-		
-		System.out.println("");
-		System.out.println("");
-		System.out.println("");
 	}
 
 }
