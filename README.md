@@ -4,10 +4,10 @@ Hi guys!Today we are going to lern how to test your project using a model.
 This exercise was made in java and the testing is using GraphWalker
 
 ##To do this exercise you will need:
-1. Eclipse [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/README.md#L13-L18)
-2. GraphWalker [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/README.md#L18-L22)
-3. Maven [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/README.md#L22-L58)
-4. Getting Set up [How to setup](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/README.md#L58-L69)
+1. Eclipse [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L13-L18)
+2. GraphWalker [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L18-L22)
+3. Maven [How to install it](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L22-L58)
+4. Getting Set up [How to setup](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L58-L69)
 
 
 ### How to install Eclipse IDE
@@ -58,10 +58,10 @@ This exercise was made in java and the testing is using GraphWalker
 ### Getting Set up
 - In Eclipse select File>>New>>Java Project
 - Name it 'Civil Status' and click Next
-- Select the tab Libraries>> Add External JARs>> select GraphWalker Jar downloaded [before](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/README.md#L18).
+- Select the tab Libraries>> Add External JARs>> select GraphWalker Jar downloaded [before](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/README.md#L18).
 - Select the Add Libraries>> select JUnit
 - Click finish.
-- Copy  [Src folder](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/tree/master/src) and [pom.xml](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/pom.xml) to your project
+- Copy  [Src folder](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/tree/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/src) and [pom.xml](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/cb108d562b80e1417f1e3c21aabf7b4ff249be0c/pom.xml) to your project
 - Now, look at me
 - Look back to your computer
 - Now, back to me
