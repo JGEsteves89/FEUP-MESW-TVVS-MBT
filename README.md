@@ -58,9 +58,10 @@ This exercise was made in java and the testing is using GraphWalker
 ### Getting Set up
 - In Eclipse select File>>New>>Java Project
 - Name it 'Civil Status' and click Next
-- Select the tab Libraries>> Add External JARs>> select GraphWalker Jar downloaded [before](http://).
+- Select the tab Libraries>> Add External JARs>> select GraphWalker Jar downloaded [before](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/README.md#L18).
+- Select the Add Libraries>> select JUnit
 - Click finish.
-- Select the Project and import from git and clone from (http://asdasd) and finish.
+- Copy  [Src folder](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/tree/master/src) and [pom.xml](https://github.com/JGEsteves89/FEUP-MESW-TVVS-MBT/blob/master/pom.xml) to your project
 - Now, look at me
 - Look back to your computer
 - Now, back to me
