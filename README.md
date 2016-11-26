@@ -4,10 +4,10 @@ Hi guys!Today we are going to lern how to test your project using a model.
 This exercise was made in java and the testing is using GraphWalker
 
 ##To do this exercise you will need:
-1. Eclipse [How to install it](# How to install Eclipse IDE)
-2. GraphWalker [How to install it](# How to install GraphWalker)
-3. Maven [How to install it](# How to install GraphWalker)
-4. Getting Set up [How to setup](# How to install Maven)
+1. Eclipse [How to install it](#How-to-install-Eclipse-IDE)
+2. GraphWalker [How to install it](#How-to-install-GraphWalker)
+3. Maven [How to install it](#How-to-install-GraphWalker)
+4. Getting Set up [How to setup](#How-to-install-Maven)
 
 
 ### How to install Eclipse IDE
