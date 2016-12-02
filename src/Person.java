@@ -5,7 +5,6 @@ import java.time.chrono.IsoChronology;
 import org.hamcrest.core.IsEqual;
 import org.junit.Assert;
 
-import status.Person.Sex;
 
 public class Person {
     public enum Sex {

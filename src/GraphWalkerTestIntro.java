@@ -7,11 +7,14 @@ import org.graphwalker.core.machine.*;
 import org.graphwalker.core.model.*;
 import org.junit.*;
 
-import status.*;
 
 
 public class GraphWalkerTestIntro extends ExecutionContext  {
 
+		Person person= new Person("Fred",
+				IsoChronology.INSTANCE.date(1980, 6, 20),
+				Person.Sex.MALE, new statusSingle(),
+				"fred@example.com");
 		public void e_Born() {}
 		public void e_getMarried() throws CivilException {}
 		public void e_getDivorced() throws CivilException {}
