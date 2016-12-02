@@ -8,6 +8,7 @@ This exercise was made in java and the testing is using GraphWalker
 2. GraphWalker [How to install it](#how-to-install-graphwalker)
 3. Maven [How to install it](#how-to-install-maven)
 4. Getting Set up [How to setup](#getting-set-up)
+5. MISTA [How to install it](#how-to-install-mista)
 
 
 ### How to install Eclipse IDE
@@ -66,3 +67,7 @@ This exercise was made in java and the testing is using GraphWalker
 - Look back to your computer
 - Now, back to the keyboard
 - Just kidding
+
+### How to install MISTA
+- Download MISTA from [here](http://cs.boisestate.edu/~dxu/research/MBT.html)
+- Open the Jar file.
