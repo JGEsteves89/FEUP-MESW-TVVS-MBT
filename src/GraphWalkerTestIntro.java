@@ -11,13 +11,17 @@ import org.junit.*;
 
 public class GraphWalkerTestIntro extends ExecutionContext  {
 
-		Person person= new Person("Fred",
+		Person person= null;
+		public void e_Born() {
+			person= new Person("Fred",
 				IsoChronology.INSTANCE.date(1980, 6, 20),
 				Person.Sex.MALE, new statusSingle(),
 				"fred@example.com");
-		public void e_Born() {}
+			}
 		public void e_getMarried() throws CivilException {}
 		public void e_getDivorced() throws CivilException {}
+		public void e_getSpouseDeceased() throws CivilException {}
+		
 
 		public void v_Start() {}
 		public void v_Single() {}
