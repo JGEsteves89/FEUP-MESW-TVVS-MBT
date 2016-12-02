@@ -1,4 +1,3 @@
-package status;
 
 public class statusSingle implements ICivilStatus {
 	public String getCivilStatusString(){return "single";};

@@ -1,4 +1,3 @@
-package status;
 
 public class statusMarried implements ICivilStatus {
 	public String getCivilStatusString(){return "married";};

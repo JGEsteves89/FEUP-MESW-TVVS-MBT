@@ -1,4 +1,3 @@
-package status;
 
 public interface ICivilStatus {
 	public default String getCivilStatusString(){return "";};
